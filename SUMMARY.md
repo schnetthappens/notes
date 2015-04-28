@@ -3,5 +3,5 @@
 * [introduction](README.md)
    * Test Section One
    * Test Section Two
-* Test Article
+* [Test Article](test_article.md)
 
