@@ -2,6 +2,16 @@
 
 * * *
 
+## Classroom
+
+### Address
+101 North Main St.
+Suite 400
+Greenville, SC 29601
+
+### Phone
+(864) 952-0099
+
 ## Instructor
 Jacob Smith
 
