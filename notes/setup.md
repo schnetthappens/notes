@@ -11,16 +11,23 @@ you'll soon grow comfortable with it.
 ### Install script
 
 A custom [install
-script](https://raw.githubusercontent.com/TIY-GVL-FEE-2015-May/notes/master/files/install-script.sh) can be used to install all of the developer tools you will need for the class. To run the install script:
+script](https://raw.githubusercontent.com/TIY-GVL-FEE-2015-May/notes/master/files/install-script.sh)
+can be used to install all of the developer tools you will need for the class.
+To run the install script:
 
-1. Download the script to your Desktop by going to File > Save As and saving it
-   as `install-script.sh` on your Desktop.
-2. Open Terminal.app
-3. In the terminal, navigate to your Desktop by typing `cd ~/Desktop` at the
+
+1. Open Terminal.app
+2. In the terminal, type `xcode-select --install` and follow the on screen
+   instructions.
+3. Download [the
+   script](https://raw.githubusercontent.com/TIY-GVL-FEE-2015-May/notes/master/files/install-script.sh)
+   to your Desktop by going to File > Save As and saving it as
+   `install-script.sh` on your Desktop.
+4. In the terminal, navigate to your Desktop by typing `cd ~/Desktop` at the
    prompt
-4. Make the script runnable by typing `chmod 755 install-script.sh` at the
+5. Make the script runnable by typing `chmod 755 install-script.sh` at the
    prompt (this won't produce any visible change).
-5. Run the script by typing `./install-script.sh` at the prompt.
+6. Run the script by typing `./install-script.sh` at the prompt.
 
 ### [Github](http://github.com)
 

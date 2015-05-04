@@ -1,7 +1,5 @@
 #!/bin/sh
 
-xcode-select --install 2>/dev/null
-
 # Check for Homebrew,
 # Install if we don't have it
 if test ! $(which brew); then
@@ -10,7 +8,7 @@ if test ! $(which brew); then
 fi
 
 echo "Setting up XCode"
-xcodebuild -license 2>/dev/null
+sudo xcodebuild -license
 
 echo "Installing command line utilities"
 
