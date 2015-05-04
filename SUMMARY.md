@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * Class Notes
-   * 2015-05-04
+   * [2015-05-04](notes/1.1.md)
        * [Setup](notes/setup.md)
        * [Atom Setup](notes/atom-setup.md)
        * [Optional Setup](notes/optional-setup.md)
