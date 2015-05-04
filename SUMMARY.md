@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Class Notes
    * 1.1
-       * Setup
+       * [Setup](notes/setup.md)
 * [Tentative Schedule](syllabus/Schedule.md)
 * [Course Information](syllabus/Course Information.md)
 * [Policies](syllabus/Policies.md)
