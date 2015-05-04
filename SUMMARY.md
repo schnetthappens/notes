@@ -1,5 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Contact](Contact.md)
-  Contact information for your instructor, campus director and emergency contacts.
+* [Prework](prework.md)
+* [Tentative Schedule](syllabus/Schedule.md)
+* [Course Information](syllabus/Course Information.md)
+* [Policies](syllabus/Policies.md)
+* [Contact](syllabus/Contact.md)

@@ -3,17 +3,12 @@
 
 * * *
 
-## [Prework](https://github.com/TIY-GVL-FEE-2015-May/prework)
-Prework for the course.
+Welcome to The Iron Yard!
 
-## [Schedule](Schedule.md)
-Outline of the daily and weekly schedule for the class.
+Here you can find the syllabus and class notes for the Greenville Front End
+Engineering course.
 
-## [Setup](Setup.md)
-Find all the resources you'll need to get your local development environment
-setup, accounts to sign up for and optional productivity tools we'll be using
-throughout the class.
+The source for these materials, as well as all of the code for the course, can
+be found on our GitHub organization, https://github.com/TIY-GVL-FEE-2015-May.
 
-## [Policies](Policies.md)
-A set of policies, guidelines and general expectations we have for our students
-at The Iron Yard.
+Happy hacking!
