@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * Class Notes
+* 1.1
 * [Tentative Schedule](syllabus/Schedule.md)
 * [Course Information](syllabus/Course Information.md)
 * [Policies](syllabus/Policies.md)
 * [Contact](syllabus/Contact.md)
 * [Prework](prework.md)
-* 1.1
 
