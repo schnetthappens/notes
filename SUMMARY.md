@@ -6,4 +6,5 @@
 * [Policies](syllabus/Policies.md)
 * [Contact](syllabus/Contact.md)
 * [Prework](prework.md)
+* Class Notes
 
