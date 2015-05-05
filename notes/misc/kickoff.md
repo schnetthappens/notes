@@ -1,0 +1,12 @@
+# Pro Tips
+- Use time wisely
+    - Try to keep lunches reasonably short
+    - Attack homework with vigor
+    - Do side projects and blog
+    - I will guide you, if you only ask
+- Throw your phone in a lake
+- Stay out of the comfort zone.
+- Seek feedback.
+- Growth mindset is crucial.
+- Go to sleep.
+- Stay calm.
