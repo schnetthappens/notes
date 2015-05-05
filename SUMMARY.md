@@ -6,6 +6,7 @@
        * [Setup](notes/setup.md)
        * [Atom Setup](notes/atom-setup.md)
        * [Optional Setup](notes/optional-setup.md)
+* [Assignments](https://github.com/TIY-GVL-FEE-2015-May/assignments)
 * [Tentative Schedule](syllabus/Schedule.md)
 * [Course Information](syllabus/Course Information.md)
 * [Policies](syllabus/Policies.md)
