@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * Class Notes
-   * [2015-05-04](notes/1.1.md)
-       * [Setup](notes/setup.md)
-       * [Atom Setup](notes/atom-setup.md)
-       * [Optional Setup](notes/optional-setup.md)
+   * [2015-05-04](notes/misc/1.1.md)
+       * [Setup](notes/misc/setup.md)
+       * [Atom Setup](notes/misc/atom-setup.md)
+       * [Optional Setup](notes/misc/optional-setup.md)
 * [Assignments](https://github.com/TIY-GVL-FEE-2015-May/assignments)
 * [Tentative Schedule](syllabus/Schedule.md)
 * [Course Information](syllabus/Course Information.md)
