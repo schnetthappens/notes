@@ -36,3 +36,8 @@ Change the "Keymap for Confirming a Suggestion" to "enter" so that it doesn't
 conflict with emmet.
 
 ![](../../files/atom/autocomplete.png)
+
+## tree-view
+Ignore some files so that things like `.DS_Store` don't show up in your sidebar.
+
+![](../../files/atom/tree-view.png)
