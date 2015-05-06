@@ -65,7 +65,7 @@ When feature is complete, stage the changes.
 When you've staged the changes, commit them.
 
     git status
-    git commit --verbose
+    git commit
 
 Write a [good commit message]. Example format:
 

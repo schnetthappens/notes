@@ -1,9 +1,8 @@
 # Atom Recommended Packages
-To install Atom packages, you can navigate to Atom > Preferences > Install,
+To install Atom packages, you can navigate to `Atom > Preferences > Install`,
 search for the package name, and click Install
 
-- atom-beautify (Make sure none of the "On Save" settings are selected in the
-  "Settings" view for the package)
+- atom-beautify
 - atom-css-comb
 - atom-handlebars
 - autocomplete-plus
@@ -11,7 +10,6 @@ search for the package name, and click Install
 - autocomplete-css
 - atom-ternjs
 - color-picker
-- easy-motion
 - emmet
 - html-entities
 - linter
@@ -22,5 +20,19 @@ search for the package name, and click Install
 - seti-syntax
 - seti-ui
 - the-closer
-- you-complete-me
-- yuno-commit
+
+# Atom Recommended Settings
+
+To change the settings for these packages, find the package in `Atom >
+Preferences > Packages` and click the "Settings" button.
+
+## atom-beautify
+Make sure none of the "On Save" settings are selected
+
+![](../../files/atom/beautify.png)
+
+## autocomplete-plus
+Change the "Keymap for Confirming a Suggestion" to "enter" so that it doesn't
+conflict with emmet.
+
+![](../../files/atom/autocomplete.png)
