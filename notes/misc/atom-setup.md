@@ -7,6 +7,9 @@ search for the package name, and click Install
 - atom-css-comb
 - atom-handlebars
 - autocomplete-plus
+- autocomplete-html
+- autocomplete-css
+- atom-ternjs
 - color-picker
 - easy-motion
 - emmet
