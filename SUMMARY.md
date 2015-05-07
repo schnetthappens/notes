@@ -15,6 +15,8 @@
        * [Git 101](notes/git/git-101.md)
        * [GitHub 101](notes/git/github-101.md)
        * [Git workflow](notes/git/git-workflow.md)
+   * Wed, May 6 (1.3)
+       * [Assignment Workflow](notes/git/assignment-workflow.md)
 * [Assignments](https://github.com/TIY-GVL-FEE-2015-May/assignments)
 * [Tentative Schedule](syllabus/Schedule.md)
 * [Course Information](syllabus/Course Information.md)
