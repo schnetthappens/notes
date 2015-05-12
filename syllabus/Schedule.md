@@ -15,11 +15,13 @@ By the end of this week students should understand:
 ### Week 2
 By the end of this week students should understand:
 
+  * Responsive web development
   * SCSS syntax, Sass mixins, variable, and functions like `darken` and
     `lighten`.
   * refactoring plain CSS into well-written SASS
   * using a simple `package.json` and `gulpfile.js` to watch SCSS files for
     changes and re-pre-compile (or use `sass-watch`)
+  * Bourbon and Neat
   * ES3/5/6/7
     - 3: core
     - 5: array/object methods
