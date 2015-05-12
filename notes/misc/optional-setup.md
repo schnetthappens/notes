@@ -13,6 +13,12 @@ Another application you may find handy is http://instapaper.com. It is a "read
 later" service, of which there are many. It is a great way to keep track of
 reading and sync articles to your phone to read on the go.
 
+## Window Manager
+A window manager allows you to move around and organize your windows without
+using a mouse. There is an open source window manager called Spectacle that you
+can read about at https://github.com/eczarny/spectacle and install using `brew
+cask install spectacle`
+
 ## Configuration
 
 ### Change Caps Lock to Control
