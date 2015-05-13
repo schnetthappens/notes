@@ -6,5 +6,5 @@ $ npm install -g node-sass
 
 ## Watching a directory for changes
 ```sh
-$ node-sass -w -r sass/ -o css/
+$ node-sass -w scss/**/*.scss -o css/
 ```
