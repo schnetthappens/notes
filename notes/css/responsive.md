@@ -8,3 +8,5 @@
 - [MDN media query
   documentation](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 - [media query example](http://codepen.io/jacobthemyth/pen/vOGYmm)
+- I use the Bootstrap grid sizes for my media queries. You can find them in the
+  comments here: http://getbootstrap.com/css/#grid-media-queries
