@@ -45,3 +45,4 @@ $ git merge <branchname>
 - https://try.github.io/
 - https://help.github.com/articles/github-glossary
 - https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
+- http://stackoverflow.com/questions/23303549/what-are-commit-ish-and-tree-ish-in-git

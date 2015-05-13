@@ -5,7 +5,7 @@ The primary rules to commit to memory about the CSS box model:
 
 - **Block level elements**
   - Take up the height of their content, plus any margin, padding, or border.
-  - Take up the full width of their parent's content box, minus any margin.
+  - Take up the full width of their parent's content box.
   - Can have an explicit width or height, in which case the above are ignored.
   - Appear on their own "line", i.e. no other elements may appear beside them.
 - **Inline level elements**
